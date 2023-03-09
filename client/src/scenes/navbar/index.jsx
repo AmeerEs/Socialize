@@ -57,7 +57,7 @@ const fullName = "Ameer Essam";
             },
           }}
         >
-          Sociopedia
+          Socialize
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
